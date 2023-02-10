@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "hompage": "http://mDyingStar.github.io/monsters-rolodex",
+  "hompage": "https://mdyingstar.github.io/monsters-rolodex/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
