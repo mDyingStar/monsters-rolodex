@@ -1,0 +1,12 @@
+.search-box-wrapper {
+    margin: 5rem 0 5rem 0;
+}
+
+.search-box {
+    background: transparent;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 1.9rem;
+    padding: 1rem;
+}
